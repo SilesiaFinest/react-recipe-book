@@ -1,3 +1,10 @@
+# React Recipe App
+
+created with free API from Edamam.com
+(restricted to 10 requests/minute)
+
+
+======================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
