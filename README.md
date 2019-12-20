@@ -3,8 +3,11 @@
 created with free API from Edamam.com
 (restricted to 10 requests/minute)
 
+*using useEffect and useState*
+
 
 ======================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
